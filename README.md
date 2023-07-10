@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farah Torkhani</h1>
-<h3 align="center">A passionate IT ENGINEER STUDENT from Tunisia</h3>
+<h3 align="center">A passionate IT ENGINEERING STUDENT  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-torkhani&label=Profile%20views&color=0e75b6&style=flat" alt="farah-torkhani" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
