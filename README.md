@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 You can ask me about  **JAVA** ** **SYMFONY** ** **C++** ** **C**
+- 💬 I’m currently learning  **What is the Metaverse on coursera**
 
-- ⚡ Fun fact **I Think I am a great dancer**
+- ⚡ You can contact me on **Farah.torkhani@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
