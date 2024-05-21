@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web and Mobile Develop
 
 ## 📊 GitHub Stats
 ![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farah-Torkhani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Torkhani&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farah-Torkhani&theme=radical)
+![Farah's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Farah-Torkhani&theme=radical)
 
 ## 💖 Let's Connect!
 - 📞 +216 98 428 606
