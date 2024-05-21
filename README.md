@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web and Mobile Develop
 - **Others:** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ## 📊 GitHub Stats
-![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farah-Torkhani&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farah-Torkhani&theme=radical)
 
 ## 💖 Let's Connect!
 - 📞 +216 98 428 606
