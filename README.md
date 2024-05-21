@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Farah Torkhani</h1>
-<h3 align="center">A passionate Software Engineering Student | Mobile Development  </h3>
+# 🌸 Hello, I'm Farah Torkhani! 🌸
+Welcome to my GitHub profile! I'm a passionate Full-Stack Web and Mobile Developer with 1 year of experience. I thrive on solving problems and creating innovative solutions. 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-torkhani&label=Profile%20views&color=0e75b6&style=flat" alt="farah-torkhani" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
+## 🛠️ My Tech Stack
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Mobile Development:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+- **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+- **Others:** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-- ⚡ You can contact me on **Farah.torkhani@esprit.tn**
+## 📊 GitHub Stats
+![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farah-torkhani-a7ab0520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farah torkhani" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-torkhani&show_icons=true&locale=en&layout=compact" alt="farah-torkhani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farah-torkhani&show_icons=true&locale=en" alt="farah-torkhani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farah-torkhani&" alt="farah-torkhani" /></p>
-
+## 💖 Let's Connect!
+- 📞 +216 98 428 606
+- ✉️ [Farah.torkhani@esprit.tn](mailto:Farah.torkhani@esprit.tn)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
