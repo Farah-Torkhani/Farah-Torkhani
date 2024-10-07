@@ -1,5 +1,5 @@
 # 🌸 Hello, I'm Farah Torkhani! 🌸
-Welcome to my GitHub profile! I'm a passionate Full-Stack Web and Mobile Developer with 1 year of experience. I thrive on solving problems and creating innovative solutions. 🌟
+Welcome to my GitHub profile! I'm a passionate Full-Stack Web and Mobile Developer with 2 year of experience. I thrive on solving problems and creating innovative solutions. 🌟
 
 ## 🛠️ My Tech Stack
 - **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
